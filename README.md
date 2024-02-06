@@ -1,6 +1,6 @@
 Hi there 👋
 ---
-:mortar_board: I'm currently a PhD student at [Sirius University of Science and Technology](https://www.siriusuniversity.ru/eng) and engaged in research in the field of computational biology and mathematical modeling. At the moment, I'm studying machine learning and the Go programming language.
+:mortar_board: I'm currently a PhD student at [Sirius University of Science and Technology](https://www.siriusuniversity.ru/eng) and engaged in research in the field of computational biology and mathematical modeling. At the moment, I'm studying data analysis and machine learning.
 <br><br>
 
 My education:
