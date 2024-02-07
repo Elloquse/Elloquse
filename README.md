@@ -8,6 +8,13 @@ My education:
   - Bachelor's degree in Biology received in Tomsk State University (TSU).
 <br><br>
 
+
+My curriculum vitae (CV) both in Russian and English:<br>
+[CV_MiroshnichenkoMI_english](https://github.com/Elloquse/Elloquse/files/14199592/Miroshnichenko_Maxim_Igorevich_CV_en.pdf)<br>
+[CV_MiroshnichenkoMI_russian](https://github.com/Elloquse/Elloquse/files/14199591/Miroshnichenko_Maxim_Igorevich_CV_ru.pdf)
+
+<br>
+
 My Tech Stack:
 ---
 <div >
